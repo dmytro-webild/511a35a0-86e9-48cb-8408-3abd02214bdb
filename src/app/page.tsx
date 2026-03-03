@@ -95,7 +95,7 @@ export default function HomePage() {
           description="Rechtsanwalt Gerhard Strobl bringt langjährige Erfahrung und tiefgreifende Expertise in jedem Mandat mit. Die Kanzlei steht für persönliche Beratung, strategische Kompetenz und absolute Mandantenorientierung. Jeder Fall erhält die volle Aufmerksamkeit und Sorgfalt, die er verdient."
           tag="Über die Kanzlei"
           buttons={[{ text: "Zur Kanzlei", href: "/kanzlei" }]}
-          imageSrc="http://img.b2bpic.net/free-photo/positive-business-team-discussing-report-sitting-meeting-table-with-monitor-holding-looking-documents-business-meeting-teamwork-concept_74855-11909.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/positive-business-team-discussing-report-sitting-meeting-table-with-monitor-holding-looking-documents-business-meeting-teamwork-concept_74855-11909.jpg?_wi=1"
           imageAlt="Elegante Kanzleiräume mit klassischem Design"
           useInvertedBackground={false}
         />
@@ -108,21 +108,21 @@ export default function HomePage() {
               id: "1",
               title: "Vertragsrecht",
               tags: ["Expertise", "Gewerblich & Privat"],
-              imageSrc: "http://img.b2bpic.net/free-photo/sales-contract-forms-documents-legal-concept_53876-134015.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/sales-contract-forms-documents-legal-concept_53876-134015.jpg?_wi=1",
               imageAlt: "Vertragsrecht-Expertise",
             },
             {
               id: "2",
               title: "Betreuungsrecht",
               tags: ["Kompetenz", "Fürsorglichkeit"],
-              imageSrc: "http://img.b2bpic.net/free-photo/middle-aged-couple-meeting-with-notary_74855-2978.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/middle-aged-couple-meeting-with-notary_74855-2978.jpg?_wi=1",
               imageAlt: "Betreuungsrecht-Beratung",
             },
             {
               id: "3",
               title: "Mediation",
               tags: ["Lösungsorientiert", "Konfliktlösung"],
-              imageSrc: "http://img.b2bpic.net/free-photo/stressed-woman_1098-14869.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/stressed-woman_1098-14869.jpg?_wi=1",
               imageAlt: "Mediation und Konfliktbeilegung",
             },
           ]}
@@ -160,7 +160,7 @@ export default function HomePage() {
               quote: "Herr Strobl hat meine komplexe Vertragsangelegenheit mit bemerkenswerter Klarheit und strategischer Brillanz gelöst. Seine Beratung war absolut verlässlich und hat mir erhebliche Sicherheit gegeben.",
               name: "Dr. Michael Lehmann",
               role: "Geschäftsführer",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg?_wi=1",
               imageAlt: "Dr. Michael Lehmann",
             },
             {
@@ -169,7 +169,7 @@ export default function HomePage() {
               quote: "In meiner schwierigen Betreuungsangelegenheit habe ich einen Partner gefunden, der echte Empathie mit juristischer Exzellenz vereint. Herr Strobl war stets erreichbar und präsent.",
               name: "Elisabeth Weber",
               role: "Privatperson",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg?_wi=2",
               imageAlt: "Elisabeth Weber",
             },
             {
@@ -178,7 +178,7 @@ export default function HomePage() {
               quote: "Die Mediation durch Rechtsanwalt Strobl hat uns geholfen, einen festgefahrenen Konflikt lösen zu können. Sein Geschick, alle Parteien zu verstehen und faire Lösungen zu finden, ist bemerkenswert.",
               name: "Thomas Beckmann",
               role: "Unternehmer",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg?_wi=3",
               imageAlt: "Thomas Beckmann",
             },
             {
@@ -187,7 +187,7 @@ export default function HomePage() {
               quote: "Herr Strobl verkörpert das, was man von einem erstklassigen Anwalt erwartet: absolute Diskretion, tiefgreifende Fachkompetenz und echte Menschlichkeit. Ich kann ihn vollumfänglich empfehlen.",
               name: "Margarethe Hoffmann",
               role: "Vermögensverwalter",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg?_wi=4",
               imageAlt: "Margarethe Hoffmann",
             },
           ]}
