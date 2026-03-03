@@ -74,7 +74,7 @@ export default function AboutPage() {
           description="Seit mehr als zwei Jahrzehnten bietet Rechtsanwalt Gerhard Strobl umfassende, diskrete und ergebnisorientierte Rechtsberatung. Die Kanzlei Strobl steht für persönliche Betreuung, tiefgreifende Expertise und das absolute Vertrauen unserer Mandanten. Wir verstehen, dass rechtliche Angelegenheiten oft sensibel und komplex sind – daher behandeln wir jedes Mandat mit höchster Sorgfalt und Professionalität."
           tag="Über die Kanzlei"
           buttons={[{ text: "Kostenloses Erstgespräch vereinbaren", href: "/kontakt" }]}
-          imageSrc="http://img.b2bpic.net/free-photo/positive-business-team-discussing-report-sitting-meeting-table-with-monitor-holding-looking-documents-business-meeting-teamwork-concept_74855-11909.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/positive-business-team-discussing-report-sitting-meeting-table-with-monitor-holding-looking-documents-business-meeting-teamwork-concept_74855-11909.jpg?_wi=2"
           imageAlt="Das Team der Kanzlei Strobl bei der Beratung"
           useInvertedBackground={false}
         />
@@ -105,7 +105,7 @@ export default function AboutPage() {
               quote: "Die Zusammenarbeit mit der Kanzlei Strobl hat mein Vertrauen in die Rechtspflege wiederhergestellt. Herr Strobl hat sich Zeit für mich genommen und wirklich verstanden, was für mich wichtig ist.",
               name: "Dr. Michael Lehmann",
               role: "Geschäftsführer",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg?_wi=5",
               imageAlt: "Dr. Michael Lehmann",
             },
             {
@@ -114,7 +114,7 @@ export default function AboutPage() {
               quote: "In einer sehr schwierigen Situation war Herr Strobl nicht nur mein Rechtsanwalt, sondern auch ein verständnisvoller Gesprächspartner. Seine Kompetenz und sein Einfühlungsvermögen sind beeindruckend.",
               name: "Elisabeth Weber",
               role: "Privatperson",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg?_wi=6",
               imageAlt: "Elisabeth Weber",
             },
             {
@@ -123,7 +123,7 @@ export default function AboutPage() {
               quote: "Ich habe mit vielen Anwälten zu tun. Herr Strobl hebt sich durch seine Gründlichkeit, Transparenz und unverwechselbare Professionalität ab. Er ist ein echter Experte in seinem Fachgebiet.",
               name: "Thomas Beckmann",
               role: "Unternehmer",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg?_wi=7",
               imageAlt: "Thomas Beckmann",
             },
           ]}
